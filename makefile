@@ -15,7 +15,7 @@ package:
 test:
 	#./scripts/my-important-task.sh my-parameter
 	@echo    delete${GIT_REPO}
-	//mvn  test
+	#mvn  test
 
 clean:
 	@echo    "Clean starts."
