@@ -12,7 +12,7 @@ package:
 	mvn  package -DskipTests=true
 
 test:
-	mvn  test
+	#mvn  test
 
 clean:
 	@echo    "Clean starts."
